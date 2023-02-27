@@ -1,2 +1,2 @@
 # capstone_extensions
-A repo for the further work section of my capstone project from General Assembly DSI25 course
+A repo for the further work section of my [capstone project from General Assembly DSI25 course](https://github.com/jyirrell/capstone)
